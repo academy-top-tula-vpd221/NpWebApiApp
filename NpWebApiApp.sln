@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpClientWebApiApp", "NpWebApiApp\NpClientWebApiApp.csproj", "{B211F2A0-C3FB-4683-BC8C-70EFEEDE77FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NpServerWebApiApp", "NpServerWebApiApp\NpServerWebApiApp.csproj", "{D8B31E7E-F880-4D7F-AC3B-894A676E9F99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B211F2A0-C3FB-4683-BC8C-70EFEEDE77FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B211F2A0-C3FB-4683-BC8C-70EFEEDE77FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B211F2A0-C3FB-4683-BC8C-70EFEEDE77FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B211F2A0-C3FB-4683-BC8C-70EFEEDE77FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B31E7E-F880-4D7F-AC3B-894A676E9F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B31E7E-F880-4D7F-AC3B-894A676E9F99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B31E7E-F880-4D7F-AC3B-894A676E9F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B31E7E-F880-4D7F-AC3B-894A676E9F99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A7DC9B1-06A9-49A7-A755-3D9B8734C98D}
+	EndGlobalSection
+EndGlobal
